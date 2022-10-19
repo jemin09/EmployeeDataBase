@@ -1,0 +1,39 @@
+.table1{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+.container{
+    border: 2px solid black;
+    margin-bottom: 10px;
+    width: 500px;
+    height: 190px;
+    word-wrap: break-word;
+}
+.td1{
+    font-weight: bold;
+    border: 1px solid black;
+    text-align: center;
+    padding:5px 20px;
+    background-color: rgb(213, 212, 212);
+}
+.th1{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding:5px 20px
+}
+.score75, .total150{
+    background-color: lightgreen;
+    font-weight: bold;
+}
+.score50, .total100{
+    background-color: lightpink;
+    font-weight: bold;
+}
+.Btn{
+    margin: 2px;
+    background-color: rgb(30, 28, 28);
+    color: white;
+    padding:5px 20px
+}
